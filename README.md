@@ -1,6 +1,6 @@
 # Spa React (Webpack)
 
-A full featured starter for modern front-end single page applications. Uses React and ***Webpack 4*** to create optimized builds, ***linters*** to check for code style and errors, ***W3C HTML*** and ***A11Y*** validation, and finally easily deployed using ***Firebase***.
+A full featured starter for modern front-end single page applications. Uses React and ***Webpack 4*** to create optimized builds, ***linters*** to check for code style and errors, and finally easily deployed using ***Firebase***.
 
 ## Getting Started
 
